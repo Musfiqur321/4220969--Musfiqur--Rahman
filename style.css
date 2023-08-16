@@ -1,0 +1,200 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+/* .container{
+        background: whitesmoke;
+        padding: 0px ; */
+ body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2%;
+ }
+
+.first-section{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+}
+.first-div{
+    /* padding-right: 40px;
+    width: 600px; */
+    width: 40%;
+    
+}
+#page-title{
+    border-left: 8px solid blue;
+    border-radius: 2%;
+    font-weight:bold;
+    padding-right: 50px;
+    font-size: 90px;
+    width: 50px;
+    
+   
+}
+h1{
+    font-size: 50px;
+}
+span{
+    color: orange;
+}
+p{
+    font-size: 200%;
+    
+  
+}
+ p a{
+    text-decoration: none;
+    border-radius: 8px;
+    background-color:rgb(212, 158, 56);
+    font-size: larger;
+}
+
+.scroll{
+    font-weight:bolder;
+}
+ .center-text{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.flex-portion{
+    display:flex;
+    padding: 50px;
+}
+#small-flex-portion-one{
+    background-color: rgb(96, 144, 194);
+}
+#small-flex-portion-two{
+    background-color: aquamarine;
+}
+#small-flex-portion-three{
+    background-color: bisque;
+}
+.small-flex-portion{
+    width: 40%;
+    border-radius: 25px;
+    margin: 0 2%;
+    padding: 0 15px;
+    
+}
+.smallimage{
+    align-items:center;
+    width:50%
+
+}
+.shorthead{
+    text-align: center;
+    font-weight: bold;
+}
+.flex-portion-code{
+    display: flex;
+    padding:0 150px;
+    
+    
+}
+.flex-follow-renowned{
+    padding: 150px;
+}
+.last-section{
+}
+.mission{
+    padding:0 150px;
+}
+.code-image{
+    width: 100%;
+    
+    
+}
+.code-code{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.follow-div {
+    text-align: right;
+     padding: 10px;
+     width: 800px;
+     
+}
+
+.flex-follow-renowned{
+    display: flex;
+    padding-bottom: 50px;
+}
+.follow{
+    font-weight:bolder;
+    font-size: 80px;
+    padding-bottom: 5px;
+}
+.follow-divtwo{
+    width: 80%;
+}
+.big-image{
+    width: 100%;
+    
+    
+}
+.second-center-text{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    align-items: center;
+}
+#follow-image{
+    width: 100%;
+}
+.center-text{
+    font-size: 80px;
+}
+.last-maindiv{
+    display: flex;
+}
+.last-image{
+    width: 500px;
+    padding-top: 100px;
+    border-radius: 15px;
+    
+}
+.Last-div{
+    padding: 50px;
+    
+}
+.last-head-para{
+
+}
+#shadaw{
+    padding:100px
+}
+/* .navbar-brand{
+    font-weight: bolder;
+    padding-right: 30px;}
+
+    
+.navbar-brand{
+    font-weight:bolder ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+} */
+
+
+
+    
+
+footer{
+    height: 150px;
+    background: rgb(44, 38, 38);
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+}
+/* @media screen and (max-width:800px) {
+    .container{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:500px){
+    .container{
+        width: 100%;
+    }
+} */
